@@ -1,0 +1,3 @@
+# no py files, no checkpoints
+*.py
+*.ipynb_checkpoints
